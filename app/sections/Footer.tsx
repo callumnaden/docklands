@@ -1,5 +1,5 @@
 import Image from 'next/image'
-import DClogoText from '../../public/DCLogoText.svg'
+import DClogoText from '../../public/images/DCLogoText.svg'
   
   export default function Footer() {
     return (

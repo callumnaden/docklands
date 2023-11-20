@@ -1,7 +1,7 @@
 import React from 'react'
 import Navigation from '../components/Navigation'
 import Image from 'next/image'
-import heroImage from "../../public/HeroImage.jpg"
+import heroImage from "../../public/images/HeroImage.jpg"
 
 const Hero = () => {
   return (

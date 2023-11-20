@@ -1,5 +1,5 @@
 import React from 'react'
-import CoLivingImage from "../../public/co-working.jpg";
+import CoLivingImage from "../../public/images/co-working.jpg";
 import Image from 'next/image';
 
 const CoLiving = () => {

@@ -2,7 +2,7 @@
 
 
 import Image from 'next/image'
-import DClogo from '../../public/DCLogoWhite.svg'
+import DClogo from '../../public/images/DCLogoWhite.svg'
 
 const navigation = [
   { name: 'About', href: '#AboutUs' },

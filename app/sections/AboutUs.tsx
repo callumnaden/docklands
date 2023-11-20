@@ -1,6 +1,6 @@
 import Image from "next/image"
 import { FadeIn, FadeInStagger } from "../components/FadeIn"
-import featureImageBig from "../../public/feature-big-image.jpg"
+import featureImageBig from "../../public/images/feature-big-image.jpg"
 
   export default function AboutUs() {
     return (
